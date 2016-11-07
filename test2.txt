@@ -1,3 +1,7 @@
 test2
 
+<<<<<<< HEAD
 abc
+=======
+test again
+
