@@ -1,3 +1,5 @@
 featuresA
 
 Fixed Bug in release branch.
+
+Fixed bug
