@@ -1,1 +1,2 @@
 Feature E
+Fixed bug in 1146 branch
