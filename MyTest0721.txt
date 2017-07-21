@@ -1,0 +1,4 @@
+public void Fun(int i)
+{
+  //origin
+}
